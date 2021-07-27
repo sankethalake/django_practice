@@ -1,0 +1,21 @@
+                OOPS Concepts:
+
+
+class -> Design  -> user defined datatype
+eg.
+house  -> room, kitchen, hall
+Bird    -> color, wings, height
+
+example of object of house class -> niwas
+
+Inheritance:
+    1. single inheritance
+    2. multi level inheritance
+    3. hierarchical inheritance
+    4. multiple inheritance
+
+Polymorphism:
+    1. Method overloading: not possible
+    2. operator overloading
+    3. Method Overriding
+    4. Duck typing

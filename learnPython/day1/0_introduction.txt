@@ -1,0 +1,41 @@
+programming language:   has decision making capabilities: functions, loops, control structures
+
+library:    predefined classes, functions, static objects
+
+framework:   it provides set of rules...we not have to do everything from scratch
+
+database:   collection of organised data
+
+methods -> inside class, called by object
+functions -> outside class, called by function_name
+
+() -> parenthesis
+{} -> braces
+[] -> brackets
+
+About python :
+developed in late 80's by Guido Van Rossum
+named after a show which had a character named python
+it is hybrid language: i.e have both compiler and interpreter
+is extensible language
+    can be used with other languages
+    have different flavours i.e n number of compilers
+used in data science, web development, software development, game development, cloud, image processing,
+    compilers, and in IOT
+
+have 2 versions : python2 and python3 (they are totally different)
+    eg. print is keyword in python2 and print() is function in python3
+
+why study python3
+    backward compatible to python2
+    1.4 lakh libraries present
+
+    .py             --> compiler        --> Intermediate        -->  Interpreter        --> output
+    source code                              code
+
+different compilers in python
+    pypy --> python
+    cpython --> c
+    iron python --> dot net
+    jpython --> java
+
