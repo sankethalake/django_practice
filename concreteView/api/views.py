@@ -1,5 +1,7 @@
+from django.shortcuts import render
 from .models import Student
 from .serializers import StudentSerializer
+from rest_framework import viewsets
 from rest_framework.generics import ListAPIView, CreateAPIView, RetrieveAPIView, UpdateAPIView, DestroyAPIView, ListCreateAPIView, RetrieveUpdateAPIView, RetrieveDestroyAPIView, RetrieveUpdateDestroyAPIView
 
 class StudentList(ListAPIView):
